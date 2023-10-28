@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "438502949622",
+    "project_id": "tkchatfinal",
+    "storage_bucket": "tkchatfinal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438502949622:android:69d89dc5397b4c906a22d7",
+        "android_client_info": {
+          "package_name": "site.tunckankilic.tuncmessage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438502949622-st6bb50vd5mqkf1bep7q4cvp8uolqnao.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "site.tunckankilic.tuncmessage",
+            "certificate_hash": "3b2350479aa94bb0c8082d6f4757b083a4c8ab31"
+          }
+        },
+        {
+          "client_id": "438502949622-2huaug3rilae98c0sfs282t7c7jh3ttr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7BD_NEs0Avv2QUUoWm_ahq2LSmqjAYIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438502949622-20r9no1vc7l2k73e71p12k76rmato8rm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "438502949622-1qraj6adfa3ijsu2nm97r26dkcctspbk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "site.tunckankilic.tkchatv2"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
